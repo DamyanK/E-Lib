@@ -1,0 +1,4 @@
+#Wed Apr 20 20:32:00 EEST 2022
+base.0=/home/damyan/Documents/elib2/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

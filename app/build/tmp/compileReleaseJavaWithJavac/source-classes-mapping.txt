@@ -1,0 +1,63 @@
+com/example/elib/ui/books/BookFragment.java
+ com.example.elib.ui.books.BookFragment
+ com.example.elib.ui.books.BookFragment$1
+ com.example.elib.ui.books.BookFragment$2
+com/example/elib/models/BookGuid.java
+ com.example.elib.models.BookGuid
+com/example/elib/MainActivity.java
+ com.example.elib.MainActivity
+ com.example.elib.MainActivity$1
+ com.example.elib.MainActivity$2
+ com.example.elib.MainActivity$3
+com/example/elib/databinding/NavHeaderMainBinding.java
+ com.example.elib.databinding.NavHeaderMainBinding
+com/example/elib/requests/UserService.java
+ com.example.elib.requests.UserService
+com/example/elib/BookDetailInfo.java
+ com.example.elib.BookDetailInfo
+com/example/elib/databinding/BookListItemBinding.java
+ com.example.elib.databinding.BookListItemBinding
+com/example/elib/ui/books/BookViewModel.java
+ com.example.elib.ui.books.BookViewModel
+com/example/elib/models/Embedded.java
+ com.example.elib.models.Embedded
+com/example/elib/ui/home/HomeFragment.java
+ com.example.elib.ui.home.HomeFragment
+ com.example.elib.ui.home.HomeFragment$1
+com/example/elib/models/PostsLinks.java
+ com.example.elib.models.PostsLinks
+com/example/elib/databinding/FragmentHomeBinding.java
+ com.example.elib.databinding.FragmentHomeBinding
+com/example/elib/adapters/BookAdapter.java
+ com.example.elib.adapters.BookAdapter
+ com.example.elib.adapters.BookAdapter$1
+com/example/elib/models/BookContent.java
+ com.example.elib.models.BookContent
+com/example/elib/models/BookElements.java
+ com.example.elib.models.BookElements
+com/example/elib/databinding/AppBarMainBinding.java
+ com.example.elib.databinding.AppBarMainBinding
+com/example/elib/databinding/FragmentGalleryBinding.java
+ com.example.elib.databinding.FragmentGalleryBinding
+com/example/elib/models/BookExcerpt.java
+ com.example.elib.models.BookExcerpt
+com/example/elib/requests/ApiClient.java
+ com.example.elib.requests.ApiClient
+com/example/elib/ui/home/HomeViewModel.java
+ com.example.elib.ui.home.HomeViewModel
+com/example/elib/models/BookTitle.java
+ com.example.elib.models.BookTitle
+com/example/elib/models/WpFeaturedmedia.java
+ com.example.elib.models.WpFeaturedmedia
+com/example/elib/databinding/ActivityBookDetailInfoBinding.java
+ com.example.elib.databinding.ActivityBookDetailInfoBinding
+com/example/elib/listeners/BookCliickListener.java
+ com.example.elib.listeners.BookCliickListener
+com/example/elib/holders/BookHolder.java
+ com.example.elib.holders.BookHolder
+com/example/elib/databinding/ActivityMainBinding.java
+ com.example.elib.databinding.ActivityMainBinding
+com/example/elib/databinding/ContentMainBinding.java
+ com.example.elib.databinding.ContentMainBinding
+com/example/elib/BuildConfig.java
+ com.example.elib.BuildConfig

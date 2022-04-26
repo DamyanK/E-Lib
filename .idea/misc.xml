@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/elib2/app/src/main/res/layout/activity_main.xml" value="0.2164855072463768" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/elib2/app/src/main/res/layout/app_bar_main.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/elib2/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/elib2/app/src/main/res/layout/fragment_gallery.xml" value="0.30570652173913043" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/elib2/app/src/main/res/layout/fragment_home.xml" value="0.3328804347826087" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/elib2/app/src/main/res/layout/nav_header_main.xml" value="0.2164855072463768" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/elib2/app/src/main/res/menu/activity_main_drawer.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/elib2/app/src/main/res/menu/main.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/elib2/app/src/main/res/xml/network_security_config.xml" value="0.30570652173913043" />
+        <entry key="..\:/Users/user/Downloads/elib-master/elib-master/elib2/app/src/main/res/drawable/ic_about.xml" value="0.35555555555555557" />
+        <entry key="..\:/Users/user/Downloads/elib-master/elib-master/elib2/app/src/main/res/drawable/ic_menu_camera.xml" value="0.35555555555555557" />
+        <entry key="..\:/Users/user/Downloads/elib-master/elib-master/elib2/app/src/main/res/drawable/side_nav_bar.xml" value="0.35555555555555557" />
+        <entry key="..\:/Users/user/Downloads/elib-master/elib-master/elib2/app/src/main/res/layout/activity_book_detail_info.xml" value="0.21014492753623187" />
+        <entry key="..\:/Users/user/Downloads/elib-master/elib-master/elib2/app/src/main/res/layout/activity_main.xml" value="0.31657608695652173" />
+        <entry key="..\:/Users/user/Downloads/elib-master/elib-master/elib2/app/src/main/res/layout/app_bar_main.xml" value="0.31657608695652173" />
+        <entry key="..\:/Users/user/Downloads/elib-master/elib-master/elib2/app/src/main/res/layout/book_list_item.xml" value="0.33" />
+        <entry key="..\:/Users/user/Downloads/elib-master/elib-master/elib2/app/src/main/res/layout/content_main.xml" value="0.31657608695652173" />
+        <entry key="..\:/Users/user/Downloads/elib-master/elib-master/elib2/app/src/main/res/layout/fragment_gallery.xml" value="0.32653985507246375" />
+        <entry key="..\:/Users/user/Downloads/elib-master/elib-master/elib2/app/src/main/res/layout/fragment_home.xml" value="0.31657608695652173" />
+        <entry key="..\:/Users/user/Downloads/elib-master/elib-master/elib2/app/src/main/res/layout/nav_header_main.xml" value="0.31657608695652173" />
+        <entry key="..\:/Users/user/Downloads/elib-master/elib-master/elib2/app/src/main/res/menu/activity_main_drawer.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/user/Downloads/elib-master/elib-master/elib2/app/src/main/res/menu/main.xml" value="0.35104166666666664" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_book_detail_info.xml" value="0.13722826086956522" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.13722826086956522" />
+        <entry key="app/src/main/res/layout/book_list_item.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.13722826086956522" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="app/src/main/res/xml/network_security_config.xml" value="0.13722826086956522" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
